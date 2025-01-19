@@ -1,0 +1,2 @@
+for x in range [0,100]:
+print "hello world from python on a chromebook"
